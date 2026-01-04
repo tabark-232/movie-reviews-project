@@ -1,5 +1,4 @@
-# movie-reviews-project
-Machine learning based sentiment analysis on IMDB movie reviews dataset
+
 # IMDB Movie Reviews Sentiment Analysis
 
 This project performs sentiment analysis on the IMDB 50K movie reviews dataset using Python and Natural Language Processing (NLP) techniques.
